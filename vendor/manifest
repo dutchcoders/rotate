@@ -1,0 +1,30 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/kr/pty",
+			"repository": "https://github.com/kr/pty",
+			"vcs": "git",
+			"revision": "ce7fa45920dc37a92de8377972e52bc55ffa8d57",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/rthornton128/goncurses",
+			"repository": "https://github.com/rthornton128/goncurses",
+			"vcs": "git",
+			"revision": "ef16d4e36502edc58c45a2c896e00ef8d513dc78",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/crypto/ssh/terminal",
+			"repository": "https://go.googlesource.com/crypto",
+			"vcs": "git",
+			"revision": "bc89c496413265e715159bdc8478ee9a92fdc265",
+			"branch": "master",
+			"path": "/ssh/terminal",
+			"notests": true
+		}
+	]
+}
